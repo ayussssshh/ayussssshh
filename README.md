@@ -112,14 +112,14 @@ Rather than treating them purely as interview problems, I enjoy implementing the
 
 ## 🌱 Currently Learning
 
-```text
-Full-Stack Development       ████████████████░░░░
-Backend Engineering          ███████████████░░░░░
-Computer Science             ██████████████░░░░░░
-Mathematics                  ████████████░░░░░░░░
-C & Low-Level Concepts       ██████████░░░░░░░░░░
-Data Structures & Algorithms ███████████░░░░░░░░░
-```
+| Area | Focus |
+|---|---|
+| **Full-Stack Development** | Building complete applications from frontend to database |
+| **Backend Engineering** | APIs, authentication, data modeling, architecture |
+| **Computer Science** | Algorithms, systems, abstractions, computational thinking |
+| **Mathematics** | Linear algebra, calculus, probability, discrete mathematics |
+| **C & Low-Level** | Memory, data representation, Linux, computer architecture |
+| **Algorithms** | Data structures, implementation, complexity, performance |
 
 I'm not trying to learn everything at once.
 
@@ -129,8 +129,8 @@ I'm gradually building a broader understanding of software — starting from thi
 
 ## 🔭 What I'm Exploring
 
-- Better backend architecture
 - Real-time systems
+- Backend architecture
 - PostgreSQL and database design
 - TypeScript
 - C and memory management
