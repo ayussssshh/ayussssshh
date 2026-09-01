@@ -28,7 +28,7 @@ The project focuses on:
 - Documentation
 - Maintainable engineering practices
 
-**Technology direction:** TypeScript · React · Vite · Fastify · PostgreSQL
+**Technology direction:** TypeScript · React · Vite · Express · PostgreSQL
 
 The project is currently in its **early design / pre-implementation stage**, with product requirements and system design being defined before the main implementation.
 
@@ -153,7 +153,7 @@ I'm gradually building a broader understanding of software — starting from thi
 
 **Backend**
 
-`Node.js` `Express` `Fastify`
+`Node.js` `Express`
 
 **Database**
 
